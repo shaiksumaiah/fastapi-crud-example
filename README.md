@@ -20,7 +20,7 @@ A beginner-friendly **FastAPI CRUD application** with **SQLite** database and **
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/fastapi-crud-app.git
+git clone https://github.com/shaiksumaiah/fastapi-crud-example.git
 cd fastapi-crud-app
 2️⃣ Install dependencies
 bash
@@ -91,22 +91,22 @@ Copy code
 
 ---
 
-### ✅ Next Steps
+You just need to:
 
-1. Open terminal in your project folder:  
+1. Open Notepad in your project folder:  
 ```bash
-cd C:\fastapi_crud_app
-Open Notepad to create/edit README.md:
-
-bash
-Copy code
 notepad README.md
-Paste the above content, save, and close Notepad.
+Paste the above content
 
-Add and commit changes:
+Save (Ctrl + S) and close Notepad
+
+After that, you can do:
 
 bash
 Copy code
 git add README.md
-git commit -m "Added professional README with badges and examples"
-git push
+git commit -m "Resolved merge conflict and added professional README"
+git push -u origin main
+Your GitHub repo will now have the clean, professional README with badges.
+
+
